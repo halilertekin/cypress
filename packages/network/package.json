@@ -15,7 +15,7 @@
     "bluebird": "3.5.3",
     "concat-stream": "1.6.2",
     "debug": "4.1.1",
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "parse-domain": "bahmutov/parse-domain#fb60bd4",
     "proxy-from-env": "1.0.0"
   },
@@ -25,7 +25,7 @@
     "@packages/socket": "*",
     "@packages/ts": "*",
     "@types/concat-stream": "1.6.0",
-    "express": "4.16.4",
+    "express": "4.22.0",
     "mocha": "6.2.2",
     "request": "cypress-io/request#b5af0d1fa47eec97ba980cde90a13e69a2afcd16",
     "request-promise": "4.2.4",
