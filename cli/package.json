@@ -42,7 +42,7 @@
     "is-installed-globally": "0.1.0",
     "lazy-ass": "1.6.0",
     "listr": "0.14.3",
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "log-symbols": "3.0.0",
     "minimist": "1.2.2",
     "moment": "2.24.0",
@@ -52,7 +52,7 @@
     "request": "cypress-io/request#b5af0d1fa47eec97ba980cde90a13e69a2afcd16",
     "request-progress": "3.0.0",
     "supports-color": "7.1.0",
-    "tmp": "0.1.0",
+    "tmp": "0.2.6",
     "untildify": "4.0.0",
     "url": "0.11.0",
     "yauzl": "2.10.0"
