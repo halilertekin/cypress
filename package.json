@@ -150,7 +150,7 @@
     "lazy-ass": "1.6.0",
     "lerna": "3.18.3",
     "lint-staged": "9.4.1",
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "make-empty-github-commit": "1.2.0",
     "mocha": "3.5.3",
     "mocha-banner": "1.1.2",
